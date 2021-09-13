@@ -44,7 +44,7 @@ let questions = [
 
 //Loop
 for(i=0; i<questions.length; i++){
-  var recenttQuestion = questions[i];
+  var recentQuestion = questions[i];
   play(recentQuestion.question, recentQuestion.answer)
 }
 

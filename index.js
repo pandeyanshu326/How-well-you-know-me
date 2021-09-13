@@ -36,7 +36,10 @@ let questions = [
   question: "What's her birthday date? ",
   answer: "20"
   },
-
+  {
+    question: "Which is her favourite place? ",
+    answer: "jaipur" 
+    }
 ];
 
 //Loop
